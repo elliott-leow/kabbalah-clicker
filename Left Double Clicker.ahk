@@ -1,0 +1,3 @@
+~LButton::
+ KeyWait, LButton
+ Click
